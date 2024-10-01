@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\databasesalun\databasesalun\bin\Debug\databasesalun.exe.config
+C:\Users\ACER\source\repos\databasesalun\databasesalun\bin\Debug\databasesalun.exe
+C:\Users\ACER\source\repos\databasesalun\databasesalun\bin\Debug\databasesalun.pdb
+C:\Users\ACER\source\repos\databasesalun\databasesalun\obj\Debug\databasesalun.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\databasesalun\databasesalun\obj\Debug\databasesalun.Form1.resources
+C:\Users\ACER\source\repos\databasesalun\databasesalun\obj\Debug\databasesalun.FrmMain.resources
+C:\Users\ACER\source\repos\databasesalun\databasesalun\obj\Debug\databasesalun.Properties.Resources.resources
+C:\Users\ACER\source\repos\databasesalun\databasesalun\obj\Debug\databasesalun.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\databasesalun\databasesalun\obj\Debug\databasesalun.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\databasesalun\databasesalun\obj\Debug\databasesalun.exe
+C:\Users\ACER\source\repos\databasesalun\databasesalun\obj\Debug\databasesalun.pdb
